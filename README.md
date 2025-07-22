@@ -6,14 +6,14 @@ Sejam bem-vindos ao meu perfil no GitHub! Aqui você encontrará projetos, ideia
   
 
 ## 🚀 Tecnologias e Ferramentas  
-- **Linguagens:** C  
+- **Linguagens:** Python, R.  
 - **Ferramentas:** VSCode  
-- **Interesses:** Arquitetura de Software, Desenvolvimento de Software e Inteligência Artifical e Machine Learning.
+- **Interesses:** Data Science e Machine Learning.
 
 ---
 
 ## 🌱 O que eu estou aprendendo  
-- No momento estou aprendendo a linguagem C.  
+- No momento estou aprendendo Data Science, utilizando a linguagem Python e R.  
 - Sempre buscando melhorar e compartilhar o que aprendo!  
 
 ---
